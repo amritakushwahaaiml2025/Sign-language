@@ -2,8 +2,8 @@
 
 ## Real-Time Sign Language Recognition & Speech System
 
-**Project Author:** RAM KISHAN SUNAR  
-**Copyright:** (c) 2026 RAM KISHAN SUNAR
+**Project Author:** Amrita kushwaha  
+**Copyright:** (c) 2026 Amrita kushwaha
 
 ---
 
@@ -32,13 +32,13 @@ The current system recognizes the supported trained word classes included in the
 
 ## Project Author
 
-### RAM KISHAN SUNAR
+### Amrita kushwaha
 
-Copyright (c) 2026 RAM KISHAN SUNAR
+Copyright (c) 2026 Amrita kushwaha
 
 ## Copyright Notice
 
-The original project work and contributions made by RAM KISHAN SUNAR are attributed to the author.
+The original project work and contributions made by Amrita kushwaha are attributed to the author.
 
 This includes applicable original work involving project development, dataset preparation, model training, integration, modifications, testing, and documentation.
 
@@ -50,4 +50,4 @@ Third-party libraries, frameworks, datasets, and externally sourced components r
 
 ---
 
-(c) 2026 RAM KISHAN SUNAR
+(c) 2026 Amrita kushwaha
